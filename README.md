@@ -6,4 +6,4 @@
 - 🧠 Currently building warehouse & e-commerce systems
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=suhrobqalandarov&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=suhrob-qalandarov&show_icons=true)
