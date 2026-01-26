@@ -5,7 +5,7 @@
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Fullstack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%26+Beautiful+UIs" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views & Social Badges -->
@@ -13,6 +13,9 @@
     <img src="https://komarev.com/ghpvc/?username=suhrob-qalandarov&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/suhrob-qalandarov?tab=followers">
       <img src="https://img.shields.io/github/followers/suhrob-qalandarov?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers"/>
+    </a>
+    <a href="https://leetcode.com/suhrob-qalandarov">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
   </p>
   
@@ -26,16 +29,22 @@
 public class SuhrobQalandarov {
     
     String name = "Suhrob Qalandarov";
-    String role = "Backend Developer";
-    String[] languages = {"Java", "SQL"};
-    String[] frameworks = {"Spring Boot", "Hibernate"};
+    String role = "Fullstack Software Engineer";
+    String location = "Tashkent, Uzbekistan 🇺🇿";
+    
+    String[] backendStack = {"Java", "Spring Boot", "Hibernate", "PostgreSQL"};
+    String[] frontendStack = {"TypeScript", "React", "Next.js"};
     
     public String getCurrentFocus() {
-        return "Building warehouse & e-commerce systems 🏪";
+        return "Building scalable backend services & responsive web apps 🚀";
     }
     
     public String getFunFact() {
-        return "I turn coffee into code ☕→💻";
+        return "I turn coffee into code ☕ → 💻";
+    }
+    
+    public boolean isAvailableForFreelance() {
+        return true; // Let's build something amazing! 
     }
 }
 ```
@@ -46,25 +55,31 @@ public class SuhrobQalandarov {
 
 <div align="center">
   
-  ### 💻 Languages & Frameworks
+  ### 💻 Backend
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Languages & Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Backend Stack"/>
+  </p>
+  
+  ### 🎨 Frontend
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" alt="Frontend Stack"/>
   </p>
   
   ### 🗄️ Databases
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb" alt="Databases"/>
   </p>
   
   ### 🔧 Tools & Platforms
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea,vscode,postman" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea,vscode,postman,figma" alt="Tools"/>
   </p>
 
-  ### 🤖 Telegram Bot Development
+  ### 🤖 Other Skills
   <p>
     <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    <img src="https://img.shields.io/badge/TelegramBots-Java-red?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramBots Java"/>
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
   
 </div>
@@ -79,7 +94,7 @@ public class SuhrobQalandarov {
   <img src="https://github-readme-stats.vercel.app/api?username=suhrob-qalandarov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrob-qalandarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrob-qalandarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -108,44 +123,41 @@ public class SuhrobQalandarov {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On
 
 <div align="center">
-  
-  <a href="https://github.com/suhrob-qalandarov/warehouse-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhrob-qalandarov&repo=warehouse-management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Warehouse Management"/>
-  </a>
-  <a href="https://github.com/suhrob-qalandarov/telegram-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhrob-qalandarov&repo=telegram-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Telegram Bot"/>
-  </a>
-  
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏪 **Warehouse Management** | Scalable inventory & order management system | Spring Boot, PostgreSQL |
+| 🛒 **E-commerce Platform** | Full-stack e-commerce with admin panel | Next.js, Spring Boot |
+| 🤖 **Telegram Bots** | Custom bots for businesses | Java, TelegramBots API |
+| 🌐 **Portfolio Website** | Personal portfolio with 3D elements | TypeScript, React, Spline |
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## � Let's Connect!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/suhrob-qalandarov/suhrob-qalandarov/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
+  
+  <a href="https://www.suhrob-qalandarov.uz">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://t.me/suhrob_qalandarov">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://linkedin.com/in/suhrob-qalandarov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:suhrob@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:suhrob_kalandarov@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/suhrob-qalandarov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://leetcode.com/suhrob-qalandarov">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+
 </div>
 
 ---
@@ -163,6 +175,10 @@ public class SuhrobQalandarov {
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
   
+  ### 🤝 Open for Freelance Projects!
+  
   **⭐ From [suhrob-qalandarov](https://github.com/suhrob-qalandarov) with ❤️**
+  
+  <img src="https://img.shields.io/badge/Made%20in-Uzbekistan%20🇺🇿-6C63FF?style=flat-square" alt="Made in Uzbekistan"/>
   
 </div>
