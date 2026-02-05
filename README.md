@@ -5,11 +5,11 @@
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Fullstack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%26+Beautiful+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=300&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Fullstack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%26+Beautiful+UIs" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views & Social Badges
-    <p>
+  <!-- Profile Views & Social Badges -->
+  <p>
     <img src="https://komarev.com/ghpvc/?username=suhrob-qalandarov&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/suhrob-qalandarov?tab=followers">
       <img src="https://img.shields.io/github/followers/suhrob-qalandarov?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers"/>
@@ -18,7 +18,6 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
   </p>
-  -->
   
 </div>
 
