@@ -122,10 +122,4 @@ public class SuhrobQalandarov {
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
   
-  ### 🤝 Open for Freelance Projects!
-  
-  **⭐ From [suhrob-qalandarov](https://github.com/suhrob-qalandarov) with ❤️**
-  
-  <img src="https://img.shields.io/badge/Made%20in-Uzbekistan%20🇺🇿-6C63FF?style=flat-square" alt="Made in Uzbekistan"/>
-  
 </div>
