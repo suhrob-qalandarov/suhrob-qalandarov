@@ -94,21 +94,6 @@ public class SuhrobQalandarov {
 
 ---
 
-## 🚀 What I'm Working On
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏪 **Warehouse Management** | Scalable inventory & order management system | Spring Boot, PostgreSQL |
-| 🛒 **E-commerce Platform** | Full-stack e-commerce with admin panel | Next.js, Spring Boot |
-| 🤖 **Telegram Bots** | Custom bots for businesses | Java, TelegramBots API |
-| 🌐 **Portfolio Website** | Personal portfolio with 3D elements | TypeScript, React, Spline |
-
-</div>
-
----
-
 ## � Let's Connect!
 
 <div align="center">
@@ -129,15 +114,6 @@ public class SuhrobQalandarov {
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
 </div>
 
 ---
