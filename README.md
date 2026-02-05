@@ -21,7 +21,6 @@
   
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +48,6 @@ public class SuhrobQalandarov {
 }
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -84,7 +82,6 @@ public class SuhrobQalandarov {
   
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -92,7 +89,6 @@ public class SuhrobQalandarov {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhrob-qalandarov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" width="100%"/>
 </div>
 
----
 
 ## � Let's Connect!
 
