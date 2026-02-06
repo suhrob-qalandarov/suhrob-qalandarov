@@ -4,9 +4,12 @@
   <img src="assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="600"/>
   
   <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=100%&height=100%&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Fullstack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%26+Beautiful+UIs" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Suhrob+Qalandarov;Fullstack+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%26+Beautiful+UIs" 
+       alt="Typing SVG" 
+       width="100%" 
+       style="max-width: 100%; height: auto;" />
+</a>
 
   <!-- Profile Views & Social Badges -->
   <p>
